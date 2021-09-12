@@ -21,7 +21,7 @@ They historical studies they reviewed with conclusions:
 ## Book: Ectypa Pestilentis
 
 {: .media}
-![](https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png){: .mr-3}
+![](https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png){: .ml-3}
 {: .media-body}
 The likely origin of the<br> **six feet rule**<br> is published by a doctor<br> in a book after a plague<br> in the mid 1500's:
 
