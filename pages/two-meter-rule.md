@@ -27,7 +27,7 @@ The historical studies they reviewed and their conclusions:
 ![](https://user-images.githubusercontent.com/82182/132994217-17a31fb1-b4e6-4127-8536-4a6b22b4ad14.png){: .image_on_left}
 
 {: .text_on_right}
-☜ The likely origin of the  **six feet rule** is<br> published by a doctor in a book after a <br>plague in the mid 1500's. Doubtless passed from generation to generation of medical professional as fact. <br><br> Read more [in a BBC article from 8th Jan 2021](https://www.bbc.com/future/article/20210107-the-432-year-old-manual-on-social-distancing)<br><br> The US CDC themselves included a discussion<br> [in a September 2013 edition](https://wwwnc.cdc.gov/eid/article/19/9/12-0311_article) <br>of their 'Emerging Infection Diseases' magazine. 
+☜ The likely origin of the  **six feet rule** is<br> published by a doctor in a book after a <br>plague in the mid 1500's. Doubtless passed from<br>generation to generation of medical<br>professional as fact. <br><br> Read more [in a BBC article from 8th Jan 2021](https://www.bbc.com/future/article/20210107-the-432-year-old-manual-on-social-distancing)<br><br> The US CDC themselves included a discussion<br> [in a September 2013 edition](https://wwwnc.cdc.gov/eid/article/19/9/12-0311_article) <br>of their 'Emerging Infection Diseases' magazine. 
 
 <br><br>
 
