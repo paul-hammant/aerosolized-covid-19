@@ -5,6 +5,11 @@ layout: page
 permalink: /two-meter-rule
 ---
 
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
 Two meters horizontally, is the **arbitrary** cut-off distance for transmission that the west has been using during the pandemic. What science is this incorrect **arbitrary** distance did this come from?
 
 ## Study: Two metres or one: what is the evidence for physical distancing in COVID-19?
@@ -41,10 +46,11 @@ Wells confirmed TB was airborne with hamsters in the middle of the last century 
 <script>
 mb = [];
 m3 = [];
-$("p[media-body]").each(function(ix) {
+jquery("p[media-body]").each(function(ix) {
       mb.push(this);
+      console.log($(this).text());
 });
-$("p[mr-3]").each(function(ix) {
+jquery("p[mr-3]").each(function(ix) {
       m3.push(this);
 });
 </script>
