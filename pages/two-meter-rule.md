@@ -46,11 +46,11 @@ Wells confirmed TB was airborne with hamsters in the middle of the last century 
 <script>
 mb = [];
 m3 = [];
-jquery("p[media-body]").each(function(ix) {
+$("p[media-body]").each(function(ix) {
       mb.push(this);
       console.log($(this).text());
 });
-jquery("p[mr-3]").each(function(ix) {
+$("p[mr-3]").each(function(ix) {
       m3.push(this);
 });
 </script>
