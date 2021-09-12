@@ -27,7 +27,10 @@ The likely origin of the<br> **six feet rule**<br> is published by a doctor<br> 
 
 <h2>Test</h2>
 
-<p><img src="https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png" alt="" class="mr-3"><div class="media-body">The likely origin of the<br> <strong>six feet rule</strong><br> is published by a doctor<br> in a book after a plague<br> in the mid 1500’s:</div></p>
+<div class="media">
+<img src="https://user-images.githubusercontent.com/82182/132978287-934afb13-d886-4880-b3b7-f71657925870.png" alt="" class="mr-3">
+<div class="media-body">The likely origin of the<br> <strong>six feet rule</strong><br> is published by a doctor<br> in a book after a plague<br> in the mid 1500’s:</div>
+</div>
 
 [Read more in a BBC article from 8th Jan 2021](https://www.bbc.com/future/article/20210107-the-432-year-old-manual-on-social-distancing)
 
