@@ -751,6 +751,42 @@
         "headline": "Study: Flu infects without sneezes/coughs too",
         "text": "44% of lab-confirmed, flu infections in the study were in people who reported no symptoms. Refer <a href='https://twitter.com/zeynep/status/1395052528996323329'>@zeynep thread</a>"
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133156622-99b47edd-aa10-4a2b-8e62-be008b0925f6.png",
+        "caption": "",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/463858/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 6,
+        "day": 25
+      },
+      "text": {
+        "headline": "Study: An outbreak of influenza aboard a commercial airliner",
+        "text": "1 passenger infected 72% of passengers infected within 3 days of exposure. Definitely not fomites or large droplets!"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133157036-a7f845f3-8861-4eee-9615-ccebebb0b04c.png",
+        "caption": "",
+        "link": "https://tspace.library.utoronto.ca/bitstream/1807/16917/1/Low_2909_3969.pdf",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2005",
+        "month": 5,
+        "day": 1
+      },
+      "text": {
+        "headline": "Study: Detection of Airborne SARS Coronavirus ...",
+        "text": "\"Confirmation that the SARS virus can be shed into the air of a patient room will guide the response to any future SARS outbreaks. The role of building ventilation rates and of the efficiency of air filtration in isolation rooms in avoiding transmission should be carefully considered, as should the avoidance of any elective procedures that could result in the generation of aerosols from patients with SARS\""
+      }
     }
   ]
 }

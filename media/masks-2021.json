@@ -500,6 +500,42 @@
         "headline": "Singapore: Wear a mask with high filtration capability, not just any cloth mask: Finance minister",
         "text": "\"Masks with high filtration capabilities should be worn, especially when going to enclosed places with people in close proximity, said Finance Minister Lawrence Wong.\n\nThese include surgical masks or one with a filtration insert, and not just any cloth mask, he said as he urged Singaporeans to stay at home to slow the spread of Covid-19 during this \"critical period\".\""
       }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133154535-3264fb28-9244-459a-8227-d70681c95e6d.png",
+        "caption": "",
+        "link": "https://www.schengenvisainfo.com/news/lufthansa-air-france-finnair-ban-fabric-face-masks-on-their-flights/",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 9,
+        "day": 6
+      },
+      "text": {
+        "headline": "Article: RIP cloth masks? Why airlines and governments are banning them",
+        "text": "Imperfect as the airlines are still allowing surgical/medical mask (which have 50% protection) but are otherwise encouraging hih spec masks"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-90670465-cloth-masks.jpg",
+        "caption": "",
+        "link": "https://www.fastcompany.com/90670465/rip-cloth-masks-why-airlines-and-governments-are-banning-them",
+        "credit": "[Source Images: Maria Rytova/iStock, WesAbrams/iStock]"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 9,
+        "day": 1
+      },
+      "text": {
+        "headline": "Article",
+        "text": "\"Cloth masks, a staple of the pandemic, are now banned on some airlines and in public spaces in Germany and Austria, because there are no standards guiding their efficacy.\""
+      }
     }
   ]
 }
