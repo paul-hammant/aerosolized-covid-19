@@ -486,6 +486,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.thelocal.de/wp-content/uploads/2021/03/229485909-1.jpg",
+        "caption": "A man with an FFP2 masnsn on the Berlin U-Bahn.",
+        "link": "https://www.thelocal.de/20210329/explained-how-berlins-new-coronavirus-rules-could-affect-you/",
+        "credit": "dpa | Christoph Soeder"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 3,
+        "day": 29
+      },
+      "text": {
+        "headline": "EXPLAINED: How Berlin’s new coronavirus [FFP2 masks] rules affect you",
+        "text": "\"The new rules, which were agreed on Saturday and will come into force on Wednesday April 1st, mean that everyone will now have to buy FFP2 masks if they want to go shopping, or move around the city on public transport.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://static.straitstimes.com.sg/s3fs-public/styles/article_pictrure_780x520_/public/articles/2021/05/18/hzmask0518.jpg?itok=z35v4EjB&timestamp=1621333045",
         "caption": "Good and bad masks",
         "link": "https://www.straitstimes.com/singapore/wear-a-mask-with-high-filtration-capability-not-just-any-cloth-mask-lawrence-wong",
