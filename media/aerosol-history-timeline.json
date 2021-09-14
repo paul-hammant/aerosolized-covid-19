@@ -159,6 +159,23 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133338534-19c0cd13-7bb6-4bc3-bf79-f1de6dd7a7c1.png",
+        "caption": "",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC378233/pdf/bactrev00060-0047.pdf1974",
+        "credit": "COUCH, CATE, DOUGLAS, GERONE, KNIGHT"
+      },
+      "start_date": {
+        "year": "1966",
+        "month": 9
+      },
+      "text": {
+        "headline": "Study: Evidence for Airborne Transmission",
+        "text": "(Experimental Respiratory Viral Disease in Volunteers): \"... airborne transmission unquestionably occurred....\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/101093907-74354b80-35b3-11eb-8cf8-048386de5215.png",
         "caption": "Account title",
         "link": "https://www.atsjournals.org/doi/full/10.1164/ajrccm.163.1.hh11-00",
@@ -194,7 +211,7 @@
         "url": "https://user-images.githubusercontent.com/82182/107675435-0337a180-6c90-11eb-8912-77a1a2e710b5.png",
         "caption": "",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf",
-        "credit": ""
+        "credit": "MONTO"
       },
       "start_date": {
         "year": "1974",
@@ -377,6 +394,23 @@
       "text": {
         "headline": "Study: Ninth floor guests at the Metropole Hotel catch SARS. Index case may have vomited in hall",
         "text": "Twenty-one infected by one guest who vomited in a corridor. Excerpt: \"... At the time, it was not clear if the causative agent was being transmitted by airborne particles, as measles and tuberculosis spread ...\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133337422-d90b793f-1c1a-4740-84bf-85c1d5780a34.png",
+        "caption": "",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/17283614/",
+        "credit": "Tellier"
+      },
+      "start_date": {
+        "year": "2006",
+        "month": 11
+      },
+      "text": {
+        "headline": "Study: Review of Aerosol Transmission of\nInfluenza A Virus",
+        "text": "\"Despite the evidence cited in support of aerosol transmission, many guidelines or review articles nevertheless routinely state that “large droplets transmission is thought to be the main mode of influenza transmission” (or similar statements) without providing supporting evidence\""
       }
     },
     {

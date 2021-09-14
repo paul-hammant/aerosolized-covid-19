@@ -1846,6 +1846,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://www.eurosurveillance.org/docserver/ahah/fulltext/eurosurveillance/26/30/2100636-f1_thmb.gif",
+        "caption": "",
+        "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.30.2100636",
+        "credit":  "Hetemäki1, Kääriäinen, Alho1, Mikkola1, Savolainen-Kopra, Ikonen4, Nohynek4, Lyytikäinen4"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 7,
+        "day": 29
+      },
+      "text": {
+        "headline": "Study: An outbreak caused by the SARS-CoV-2 Delta variant (B.1.617.2) in a secondary care hospital in Finland",
+        "text": "\"To control the outbreak, surgical masks were replaced by FFP2 respirators when HCW are in close contact with a laboratory-confirmed COVID-19 patient...\"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/129077013-b0ec8143-c1b9-4f86-8631-c9e8b914fc35.png",
         "caption": "",
         "link": "https://www.biorxiv.org/content/10.1101/2021.08.10.455702v1",
@@ -1913,6 +1931,24 @@
       "text": {
         "headline": "Airborne transmission of respiratory viruses",
         "text": "Review: \"Improved understanding of aerosol transmission brought about by studies of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection requires a reevaluation of the major transmission pathways for other respiratory viruses, which will allow better-informed controls to reduce airborne transmission.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133342110-06ff0de5-1209-443a-86e2-e6d250cce1a6.png",
+        "caption": "",
+        "link": "https://english.elpais.com/usa/2021-09-13/the-unvaccinated-us-teacher-who-infected-12-of-her-students-with-covid-lessons-to-be-learned-for-the-return-to-school.html?ssm=TW_CC",
+        "credit": "El Pais"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 9,
+        "day": 13
+      },
+      "text": {
+        "headline": "Article: The unvaccinated US teacher who infected 12 students with Covid: Lessons to be learned for the return to school",
+        "text": "Airborne, Droplet, Fomite not mention in the article but 'aerosol' is in one of the diagrams, and the otherwise excellent writeup SCREAMS airborne."
       }
     }
   ]
