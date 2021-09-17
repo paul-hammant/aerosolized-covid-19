@@ -1936,6 +1936,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/E_f8omsWUAUvHP3?format=png&name=small",
+        "caption": "",
+        "link": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1018392/S1370_COVID-19_Transmission_in_Hotels_and_Managed_Quarantine_Facilities.pdf",
+        "credit": "Three UK government groups"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 9,
+        "day": 9
+      },
+      "text": {
+        "headline": "Report: COVID-19 Transmission in Hotels and Managed Quarantine Facilities (MQFs), 9 September 2021",
+        "text": "\"There are three main routes through which the SARS-CoV-2 virus is thought to be transmitted:\nair, through inhalation of aerosols; person-to-person, through inhalation of aerosols and\ndirect exposure to larger droplets; surfaces, through contamination by droplet deposition or\nhands which are transferred to mucous membranes by touch\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/133342110-06ff0de5-1209-443a-86e2-e6d250cce1a6.png",
         "caption": "",
         "link": "https://english.elpais.com/usa/2021-09-13/the-unvaccinated-us-teacher-who-infected-12-of-her-students-with-covid-lessons-to-be-learned-for-the-return-to-school.html?ssm=TW_CC",
