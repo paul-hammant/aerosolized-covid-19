@@ -364,6 +364,22 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133859002-ebb23ca9-6766-473b-b814-833e048d5590.png",
+        "caption": "",
+        "link": "https://www.open.edu/openlearn/ocw/pluginfile.php/625079/mod_resource/content/1/polio_case_study.pdf",
+        "credit": "David Male and Basiro Davey of The Open University"
+      },
+      "start_date": {
+        "year": "2003"
+      },
+      "text": {
+        "headline": "POLIO CASE STUDY",
+        "text": "[minor transmission route, perhaps] \"In the early stages of an infection, the virus may also be passed on via the respiratory route, when aerosol droplets of infected saliva are coughed or sneezed into the local atmosphere\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/104086297-8bb8c180-524e-11eb-80f6-2689602333b6.png",
         "caption": "Computer model of airflow from one apartment block to another",
         "link": "https://www.nejm.org/doi/full/10.1056/nejmoa032867",
