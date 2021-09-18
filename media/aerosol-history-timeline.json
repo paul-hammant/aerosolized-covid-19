@@ -2,95 +2,15 @@
   "title": {
     "media": {
       "url": "https://user-images.githubusercontent.com/82182/101088239-43511880-35ab-11eb-8219-a2045be30d0d.png",
-      "caption": "Old problem, new challenge!",
-      "credit": "Yuguo Li - The University of Hong Kong"
+      "caption": "Very Old problem, and very old solution",
+      "credit": ""
     },
     "text": {
-      "headline": "Airborne/Aerosol: Old problem, new challenge!",
-      "text": "SARS-CoV-2 transmission: a inconsistency/ambiguity?<br>No authorities have admitted airborne transmission yet.<br>But all national and international authorities recommended maintaining good ventilation. If not airborne, why ventilate? - Yuguo Li"
+      "headline": "headline",
+      "text": "text text text"
     }
   },
   "events": [
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://pbs.twimg.com/media/EgiuWLgXkAcCRX8?format=png&name=small",
-        "caption": "Fodere - Lecons sur les epidemies (1828).",
-        "link": "",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "1828"
-      },
-      "text": {
-        "headline": "Fresh air again referred to as important",
-        "text": "Fodere, in his treatise Lecons sur les epidemies, noted that fresh air in hospitals was important. Part of the text in this picture reads 'Make hospitals well isolated, well aired, with many air currents produced by ventilators and don't fill it with a large number of ill patients ...'<br><br><a href=\"https://twitter.com/jmcrookston/status/1299482590206930944\">post here (@jmcrookston)</a>"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://pbs.twimg.com/media/EyLiBm8W8AUZQUd?format=jpg&name=large",
-        "caption": "",
-        "link": "",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "1845"
-      },
-      "text": {
-        "headline": "Book: On The History And Art Of Warming And Ventilating Rooms And Buildings ",
-        "text": "“We resort to places of assembly, and draw into our mouths air loaded with effluvia from the lungs (...) of every individual in the promiscuous crowd”. “Exhalations (...) prevented by the walls and ceiling from escaping, they are when thus concentrated (...) deleterious.”<br>Ref: <a href=\"https://twitter.com/mdc_martinus/status/1378912958458298368\">Research by (@mdc_martinus)</a>"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://pbs.twimg.com/media/EiwqEcJXYAEpX4a?format=jpg&name=large",
-        "caption": "",
-        "link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rspl.1874.0027",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "1874"
-      },
-      "text": {
-        "headline": "CO2 “traffic lights” guiding ventilation recommendations",
-        "text": "Chaumont FD: \"On the theory of ventilation: an attempt to establish a positive basis for the calculation of the amount of fresh air required for an inhabited air-space\". Via <a href='https://twitter.com/mdc_martinus/status/1354110813607501829'>@mdc_martinus</a>"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://user-images.githubusercontent.com/82182/111068027-de1c9580-84be-11eb-82ec-d4219ad7df53.png",
-        "caption": "The Carbonic Acid, Organic Matter, and Micro-organisms Air, more especially of Dwellings and Schools",
-        "link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1887.0004",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "1886"
-      },
-      "text": {
-        "headline": "TODO - Carnelley",
-        "text": "Carnelley and friends: using carbonic acid to quantify bacteria and virions in the air"
-      }
-    },
-    {
-      "media": {
-        "thumbnail": "",
-        "url": "https://pbs.twimg.com/media/EnYk--CXUAE_FTw?format=png&name=900x900",
-        "caption": "Charles Chapin - Methods for the prevention of scarlet fever (1888)",
-        "link": "https://archive.org/details/101169236.nlm.nih.gov",
-        "credit": ""
-      },
-      "start_date": {
-        "year": "1888"
-      },
-      "text": {
-        "headline": "Charles Chapin knew scarlet fever was occasionally airborne",
-        "text": "Charles Chapin, who would later promote that most transmission was droplet borne, appreciated that scarlet fever could occasionally infect someone on the second floor of a house from the first - it was therefore airborne.<br><br><a href='https://archive.org/details/101169236.nlm.nih.gov'>His book</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1330292495184519175'>post here (@jmcrookston)</a>"
-      }
-    },
     {
       "media": {
         "thumbnail": "",

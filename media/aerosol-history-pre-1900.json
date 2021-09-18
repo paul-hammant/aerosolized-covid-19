@@ -1,0 +1,161 @@
+{
+  "title": {
+    "media": {
+      "url": "https://user-images.githubusercontent.com/82182/101088239-43511880-35ab-11eb-8219-a2045be30d0d.png",
+      "caption": "Old problem, new challenge!",
+      "credit": "Yuguo Li - The University of Hong Kong"
+    },
+    "text": {
+      "headline": "Airborne/Aerosol: Old problem, new challenge!",
+      "text": "SARS-CoV-2 transmission: a inconsistency/ambiguity?<br>No authorities have admitted airborne transmission yet.<br>But all national and international authorities recommended maintaining good ventilation. If not airborne, why ventilate? - Yuguo Li"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/133908552-53fd4bd6-e98f-4dfc-a377-20ae09216008.png",
+        "caption": "",
+        "link": "https://pdfs.semanticscholar.org/b7e2/c2a5457884f2e8d6d8e880352f67ee779463.pdf?_ga=2.86337752.1924724949.1631999174-671984109.1631567205",
+        "credit": "Nature of Man, Hippocratic Treatise by Polybus"
+      },
+      "start_date": {
+        "year": "-400"
+      },
+      "text": {
+        "headline": "\"common cause [...] what we breathe\"",
+        "text": "\"When a single disease affects a great number of individuals at the same time, we must attribute this to the most common cause, to that which we all use the most; and this is what we breathe\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/105977210-0116f580-6089-11eb-9096-e53211eece71.png",
+        "caption": "",
+        "link": "https://archive.org/details/lucretiusonnatur00lucriala/page/290/mode/2up?q=%22morbid+infection+of+the+air%22",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "-95"
+      },
+      "text": {
+        "headline": "\"Infection of the air\" - De rerum natura, book VI - Lucretius",
+        "text": "[Slow loading resource]. A poem in verse in its original form, and other translations vary: <a href='https://archive.org/details/onthenatureof00lucruoft/page/n295/mode/2up'>[1]</a> <a href='https://archive.org/details/lucretiusonthena00lucruoft/page/256/mode/2up'>[2]</a> <a href='https://archive.org/details/lucretiusonnatu00lucr/page/294/mode/2up'>[3]</a> "
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://miro.medium.com/max/700/1*2wDesstItQ0euy0LAuw7EA.jpeg",
+        "caption": "Modern surgical mask Ben Frankin would've worn if he could",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198598/",
+        "credit": "Image: Philip Steury/iStock/Getty Images Plus"
+      },
+      "start_date": {
+        "year": "1773",
+        "month": 9,
+        "day": 25
+      },
+      "text": {
+        "headline": "Ben Franklin knew the score!",
+        "text": "Writeup: Dr Benjamin Franklin is seemingly predicting airborne viruses responsible for influenza and others associated with the common cold, and drawing a connection to becoming clinically ill with poor dietary choices (2017 writeup; see also <a href='https://elemental.medium.com/benjamin-franklin-would-get-social-distancing-a1489564ab23'>Benjamin Franklin Would Get Social Distancing</a>). <br><br>He also said in 1785 'I am persuaded that no common Air from without, is so unwholesome as the Air within a close Room, that has been often breath'd and not changed.'.<br><br>Find this book <a href=' https://ncbi.nlm.nih.gov/pmc/articles/PMC1299336/'>here</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/Ee1FHuIXoAMqRfq?format=png&name=small",
+        "caption": "Pringle - Observations on the diseases of the army (1753).",
+        "link": "https://archive.org/details/b30502962",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1753"
+      },
+      "text": {
+        "headline": "Fresh air known to be important for army medical camps",
+        "text": "As long ago as 1753, Pringle, a doctor, studied medical army camp hospitals. He found that fresh air was important to stop disease spread.<br><br><a href='https://twitter.com/jmcrookston/status/1291765303077228544'>post (@jmcrookston)</a>.<br><br>Also <a href='https://twitter.com/jmcrookston/status/1287734986544644096'>this (@jmcrookston)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EgiuWLgXkAcCRX8?format=png&name=small",
+        "caption": "Fodere - Lecons sur les epidemies (1828).",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1828"
+      },
+      "text": {
+        "headline": "Fresh air again referred to as important",
+        "text": "Fodere, in his treatise Lecons sur les epidemies, noted that fresh air in hospitals was important. Part of the text in this picture reads 'Make hospitals well isolated, well aired, with many air currents produced by ventilators and don't fill it with a large number of ill patients ...'<br><br><a href=\"https://twitter.com/jmcrookston/status/1299482590206930944\">post here (@jmcrookston)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EyLiBm8W8AUZQUd?format=jpg&name=large",
+        "caption": "",
+        "link": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1845"
+      },
+      "text": {
+        "headline": "Book: On The History And Art Of Warming And Ventilating Rooms And Buildings ",
+        "text": "“We resort to places of assembly, and draw into our mouths air loaded with effluvia from the lungs (...) of every individual in the promiscuous crowd”. “Exhalations (...) prevented by the walls and ceiling from escaping, they are when thus concentrated (...) deleterious.”<br>Ref: <a href=\"https://twitter.com/mdc_martinus/status/1378912958458298368\">Research by (@mdc_martinus)</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EiwqEcJXYAEpX4a?format=jpg&name=large",
+        "caption": "",
+        "link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rspl.1874.0027",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1874"
+      },
+      "text": {
+        "headline": "CO2 “traffic lights” guiding ventilation recommendations",
+        "text": "Chaumont FD: \"On the theory of ventilation: an attempt to establish a positive basis for the calculation of the amount of fresh air required for an inhabited air-space\". Via <a href='https://twitter.com/mdc_martinus/status/1354110813607501829'>@mdc_martinus</a>"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/111068027-de1c9580-84be-11eb-82ec-d4219ad7df53.png",
+        "caption": "The Carbonic Acid, Organic Matter, and Micro-organisms Air, more especially of Dwellings and Schools",
+        "link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1887.0004",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1886"
+      },
+      "text": {
+        "headline": "TODO - Carnelley",
+        "text": "Carnelley and friends: using carbonic acid to quantify bacteria and virions in the air"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
+        "url": "https://pbs.twimg.com/media/EnYk--CXUAE_FTw?format=png&name=900x900",
+        "caption": "Charles Chapin - Methods for the prevention of scarlet fever (1888)",
+        "link": "https://archive.org/details/101169236.nlm.nih.gov",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1888"
+      },
+      "text": {
+        "headline": "Charles Chapin knew scarlet fever was occasionally airborne",
+        "text": "Charles Chapin, who would later promote that most transmission was droplet borne, appreciated that scarlet fever could occasionally infect someone on the second floor of a house from the first - it was therefore airborne.<br><br><a href='https://archive.org/details/101169236.nlm.nih.gov'>His book</a>.<br><br><a href='https://twitter.com/jmcrookston/status/1330292495184519175'>post here (@jmcrookston)</a>"
+      }
+    }
+  ]
+}
