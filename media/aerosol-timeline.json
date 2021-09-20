@@ -1990,6 +1990,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/134035958-e0edd2c8-03b6-4c2c-af5b-7f38dfcf9124.png",
+        "caption": "",
+        "link": "https://www.tandfonline.com/doi/abs/10.1080/15459624.2021.1963445?journalCode=uoeh20",
+        "credit": "Wagner, Sparks, Miller, Chen,  Macher, and Waldman"
+      },
+      "start_date": {
+        "year": 2021,
+        "month": 9,
+        "day": 13
+      },
+      "text": {
+        "headline": "Study: Modeling the impacts of physical distancing and other exposure determinants on aerosol transmission",
+        "text": "No mention of hand-washing or hand sanitizer towards risk reduction. That is because it is airborne"
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://user-images.githubusercontent.com/82182/133502192-e7e6a0cd-319e-4881-8faf-6db330c91666.png",
         "caption": "",
         "link": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab797/6370149",
