@@ -1,5 +1,5 @@
 ---
-title: ประวัติของโรคติดต่อที่เกิดจากละอองลอย
+title: ประวัติของโรคติดต่อที่แพร่ทางละอองลอย
 permalink: /th/historical-list
 layout: page
 ---

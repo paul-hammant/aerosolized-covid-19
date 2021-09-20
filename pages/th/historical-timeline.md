@@ -1,5 +1,5 @@
 ---
-title: เส้นเวลาทางประวัติศาสตร์ของโรคติดเชื้อในละอองลอย
+title: ลำดับความเป็นมาของโรคที่แพร่ทางละอองลอย
 timeline-json: th/aerosol-history-timeline.json
 permalink: /th/historical-timeline
 
