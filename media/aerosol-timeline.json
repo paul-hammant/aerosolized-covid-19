@@ -1702,6 +1702,24 @@
     {
       "media": {
         "thumbnail": "",
+        "url": "https://user-images.githubusercontent.com/82182/134031813-e570b24f-75e8-4613-8070-daa155fb6e9b.png",
+        "caption": "",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/hsr2.275",
+        "credit": "Drossinos, Weber,and Stilianakis"
+      },
+      "start_date": {
+        "year": "2021",
+        "month": 5,
+        "day": 7
+      },
+      "text": {
+        "headline": "Study: Droplets and aerosols: An artificial dichotomy in respiratory virus transmission",
+        "text": "\"We propose instead that droplet and aerosol transmission should be replaced by a unique airborne transmission mode, to be distinguished from contact transmission.\""
+      }
+    },
+    {
+      "media": {
+        "thumbnail": "",
         "url": "https://www.cdc.gov/mmwr/volumes/70/wr/figures/mm7021e1-F-large.gif",
         "caption": "",
         "link": "https://www.cdc.gov/mmwr/volumes/70/wr/mm7021e1.htm?s_cid=mm7021e1_w",
